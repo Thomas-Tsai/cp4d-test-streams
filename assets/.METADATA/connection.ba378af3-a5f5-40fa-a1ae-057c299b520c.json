@@ -1,0 +1,1 @@
+{"metadata":{"asset_id":"ba378af3-a5f5-40fa-a1ae-057c299b520c","asset_type":"connection","creator_id":"1000331018"},"entity":{"datasource_type":"6a1bde39-9721-4bd5-99d5-ab4dd31cfe55","description":"MQTT Broker","name":"gpssensor.ddns.net","origin_country":"us","properties":{"server":"gpssensor.ddns.net","password":"","port":1883,"username":""}}}

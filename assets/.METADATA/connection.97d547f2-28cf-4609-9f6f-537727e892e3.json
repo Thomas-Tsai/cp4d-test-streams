@@ -1,0 +1,1 @@
+{"metadata":{"asset_id":"97d547f2-28cf-4609-9f6f-537727e892e3","asset_type":"connection","creator_id":"1000331018"},"entity":{"datasource_type":"e6087200-0eee-4616-8eb0-e99e6df12c36","description":"Files on the local file system","name":"myhome","origin_country":"us","properties":{"root_path":"/"},"flags":["personal_credentials"]}}
